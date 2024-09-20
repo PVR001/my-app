@@ -13,4 +13,7 @@ The component uses inline JSX styles for layout and design, and svg for scalable
 
 
 
-OUTPUT ![image](https://github.com/user-attachments/assets/b29dae9c-cefe-4064-b974-0e6c6bbceb4d)
+OUTPUT FOR TASK 1: ![image](https://github.com/user-attachments/assets/b29dae9c-cefe-4064-b974-0e6c6bbceb4d)
+
+OUTPUT FOR TASK 2:
+![image](https://github.com/user-attachments/assets/c5f74448-232f-4267-ad28-0faab365812b)
